@@ -1,0 +1,15 @@
+AdGroup,Group,Impressions,Clicks,Conversions,NonDeclined_Apps
+GSA_Comp_Cred1_Comp_Exact_ABTEST_Brand,Control,230226,17865,338,87
+GSA_Comp_Cred1_Comp_Exact_ABTEST_Brand,Test,109094,6074,221,51
+GSA_Comp_Cred1_Comp_Exact_Brand,Control,670929,48860,817,191
+GSA_Comp_Cred1_Comp_Exact_Brand,Test,176944,9564,413,89
+GSA_General_Ccard_Brand_Exact_Credit Card,Control,97487,38581,4223,1617
+GSA_General_Ccard_Brand_Exact_Credit Card,Test,23694,7479,1280,528
+GSA_General_Ccard_Generic_Exact_ABTEST_Credit Cards Only,Control,17065,1343,480,92
+GSA_General_Ccard_Generic_Exact_ABTEST_Credit Cards Only,Test,17842,1673,538,95
+GSA_General_Ccard_Generic_Exact_Credit Cards Only,Control,63202,3916,1389,268
+GSA_General_Ccard_Generic_Exact_Credit Cards Only,Test,99565,5730,1945,362
+GSA_M&R_Venture_Brand_Exact_Brand Venture,Control,23232,11981,1677,985
+GSA_M&R_Venture_Brand_Exact_Brand Venture,Test,23134,11222,1653,994
+GSA_M&R_Venture_Brand_Exact_Brand_Venture,Control ,32492,14959,1991,1275
+GSA_M&R_Venture_Brand_Exact_Brand_Venture,Test ,33672,15448,2031,1279

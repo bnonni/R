@@ -1,0 +1,550 @@
+Date,Region,Impressions,Clicks,Cost,Avg. CPM,Metro area,City
+4/11/2016,Florida,37,0,0,0, --,Dover
+4/11/2016,Pennsylvania,138,0,0,0, --,Darby
+4/11/2016,North Dakota,99,3,15.85,160.1,Fargo-Valley City ND,Wahpeton
+4/11/2016,Montana,45,1,2.17,48.22,Billings Mount,Unspecified
+4/11/2016,West Virginia,113,0,0,0, --,Ripley
+4/11/2016,Iowa,47,0,0,0, --,West Burlington
+4/11/2016,Massachusetts,193,6,81.21,420.78,Boston MA-Manchester NH,Pembroke
+4/11/2016,New York,186,11,60.74,326.56,Rochester NY,Churchville
+4/11/2016,North Carolina,388,21,73.64,189.79,Raleigh-Durham (Fayetteville) NC,Hope Mills
+4/11/2016,Nevada,40,1,1.34,33.5,Reno NV,Yerington
+4/11/2016,Alabama,122,6,48.95,401.23,Birmingham AL,Leeds
+4/11/2016,California,299,0,0,0, --,Huntington Park
+4/11/2016,New York,319,12,45.63,143.04,Syracuse NY,Cortland
+4/11/2016,Minnesota,12,0,0,0,Minneapolis-St. Paul MN,Blooming Prairie
+4/11/2016,Minnesota,10,0,0,0,Fargo-Valley City ND,Battle Lake
+4/11/2016,California,52,0,0,0, --,Ione
+4/11/2016,Kentucky,6,0,0,0, --,Garfield
+4/11/2016,Pennsylvania,29,4,22.85,787.93,Wilkes Barre-Scranton PA,Forest City
+4/11/2016,Vermont,15,0,0,0,Burlington VT-Plattsburgh NY,Waterbury
+4/11/2016,Florida,189,7,7.69,40.69,Tampa-St. Petersburg (Sarasota) FL,Sun City Center
+4/11/2016,Massachusetts,672,24,185.39,275.88,Albany-Schenectady-Troy NY,Pittsfield
+4/11/2016,Montana,35,0,0,0, --,Chinook
+4/11/2016,Pennsylvania,13,0,0,0, --,Saint Lawrence
+4/11/2016,Nebraska,353,0,0,0, --,North Platte
+4/11/2016,Arkansas,751,0,0,0, --,Springdale
+4/11/2016,Ohio,93,2,7.88,84.73,Toledo OH,Unspecified
+4/11/2016,Missouri,11,0,0,0, --,Holt
+4/11/2016,Montana,86,1,3.77,43.84, --,Crow Agency
+4/11/2016,New York,204,1,7.2,35.29, --,Setauket- East Setauket
+4/11/2016,North Carolina,827,41,172.38,208.44,Raleigh-Durham (Fayetteville) NC,Goldsboro
+4/11/2016,Indiana,2,0,0,0, --,Monroe
+4/11/2016,New Hampshire,6,0,0,0, --,Rye
+4/11/2016,Michigan,163,7,11.23,68.9,Marquette MI,Iron Mountain
+4/11/2016,New Jersey,577,1,1.38,2.39, --,North Brunswick Township
+4/11/2016,Alabama,68,2,2,29.41,Birmingham AL,Childersburg
+4/11/2016,Ohio,82,4,19.84,241.95,Cleveland-Akron (Canton) OH,Willard
+4/11/2016,Michigan,683,10,70.02,102.52,Flint-Saginaw-Bay City MI,Unspecified
+4/11/2016,North Carolina,1056,30,122.61,116.11,Raleigh-Durham (Fayetteville) NC,Wilson
+4/11/2016,Oregon,18,0,0,0, --,Manzanita
+4/11/2016,Illinois,1,0,0,0, --,Hutsonville
+4/11/2016,West Virginia,7,0,0,0,Parkersburg WV,Vienna
+4/11/2016,Minnesota,8,0,0,0,Sioux Falls(Mitchell) SD,Hills
+4/11/2016,California,4143,176,690.53,166.67,Los Angeles CA,Santa Ana
+4/11/2016,West Virginia,2,0,0,0,Charleston-Huntington WV,Institute
+4/11/2016,Mississippi,708,30,147.62,208.5,Columbus-Tupelo-West Point MS,Starkville
+4/11/2016,Missouri,127,1,5.06,39.84, --,Fulton
+4/11/2016,Virginia,134,4,38.76,289.25,Richmond-Petersburg VA,East Highland Park
+4/11/2016,Kansas,12,1,2.66,221.67,Wichita-Hutchinson KS,Plainville
+4/11/2016,Alabama,12,0,0,0, --,Walnut Grove
+4/11/2016,Wisconsin,106,1,1.46,13.77,Duluth MN-Superior WI,Hayward
+4/11/2016,Tennessee,75,0,0,0, --,Medina
+4/11/2016,Texas,24,0,0,0,Houston TX,Palacios
+4/11/2016,California,112,4,2.7,24.11, --,Pine Grove
+4/11/2016,North Carolina,32,0,0,0, --,Grover
+4/11/2016,California,6,0,0,0, --,Caruthers
+4/11/2016,Maine,9,0,0,0,Bangor ME,Unity
+4/11/2016,Ohio,8285,19,50.26,6.07, --,Cincinnati
+4/11/2016,Unspecified,1,0,0,0,Cheyenne WY-Scottsbluff NE,Unspecified
+4/11/2016,Oklahoma,117,3,2.9,24.79,Oklahoma City OK,Holdenville
+4/11/2016,Pennsylvania,251,14,45.51,181.31,Wilkes Barre-Scranton PA,Selinsgrove
+4/11/2016,Arizona,16,0,0,0,Phoenix AZ,Luke Air Force Base
+4/11/2016,Utah,250,2,1.32,5.28,Salt Lake City UT,Holladay
+4/11/2016,Kansas,3,0,0,0, --,Sedgwick
+4/11/2016,Pennsylvania,46,2,2.56,55.65,Pittsburgh PA,Ross Township
+4/11/2016,Illinois,74,1,7.51,101.49, --,Beecher
+4/11/2016,Mississippi,91,1,5.05,55.49, --,Canton
+4/11/2016,Georgia,254,0,0,0,Atlanta GA,Hapeville
+4/11/2016,Virginia,49,0,0,0, --,Prince George
+4/11/2016,Iowa,6,0,0,0,Des Moines-Ames IA,Maxwell
+4/11/2016,North Carolina,38,5,11.03,290.26,Greenville-New Bern-Washington NC,Plymouth
+4/11/2016,Minnesota,28,0,0,0, --,Janesville
+4/11/2016,Arkansas,43,3,18.76,436.28,Little Rock-Pine Bluff AR,Danville
+4/11/2016,California,83,0,0,0, --,Sunland-Tujunga
+4/11/2016,New York,408,2,9.27,22.72, --,Floral Park
+4/11/2016,New York,11,0,0,0, --,Shenorock
+4/11/2016,Illinois,14,1,1.5,107.14,Davenport IA-Rock Island-Moline IL,Sherrard
+4/11/2016,Connecticut,5,0,0,0, --,Stafford
+4/11/2016,Illinois,9,0,0,0, --,Chatsworth
+4/11/2016,New York,33,0,0,0, --,Lake George
+4/11/2016,Kansas,1,0,0,0, --,Peabody
+4/11/2016,Pennsylvania,12,1,1.26,105,Philadelphia PA,Bechtelsville
+4/11/2016,Washington,5,0,0,0, --,Manson
+4/11/2016,Illinois,484,1,13.13,27.13, --,Lincolnshire
+4/11/2016,Texas,196,6,12.65,64.54,Houston TX,Port Lavaca
+4/11/2016,Arkansas,3,0,0,0, --,Subiaco
+4/11/2016,Maine,1,0,0,0, --,Pownal
+4/11/2016,Illinois,36,0,0,0, --,Lake Bluff
+4/11/2016,Minnesota,10,0,0,0,Minneapolis-St. Paul MN,Emily
+4/11/2016,Ohio,54,1,8.26,152.96,Cleveland-Akron (Canton) OH,Green
+4/11/2016,Indiana,14,0,0,0, --,Monon
+4/11/2016,Texas,5,2,16.02,3204,Amarillo TX,Wellington
+4/11/2016,North Carolina,31,0,0,0, --,Ruffin
+4/11/2016,New Jersey,158,0,0,0, --,Old Bridge Township
+4/11/2016,Massachusetts,31,4,12.52,403.87,Boston MA-Manchester NH,Halifax
+4/11/2016,Pennsylvania,37,0,0,0, --,Ford City
+4/11/2016,Virginia,412,0,0,0, --,Cave Spring
+4/11/2016,Mississippi,14,2,11.75,839.29,Hattiesburg-Laurel MS,Bay Springs
+4/11/2016,New Jersey,131,7,19.8,151.15,New York NY,Wyckoff
+4/11/2016,New Mexico,13,0,0,0, --,Tijeras
+4/11/2016,South Dakota,1,0,0,0,Sioux Falls(Mitchell) SD,Eureka
+4/11/2016,Texas,878,37,119.03,135.57,Austin TX,San Marcos
+4/11/2016,Pennsylvania,12,0,0,0,Pittsburgh PA,Marianna
+4/11/2016,Kansas,2,0,0,0,Wichita-Hutchinson KS,Minneola
+4/11/2016,Arizona,13,2,0.86,66.15, --,Sells
+4/11/2016,Colorado,153,0,0,0, --,Pagosa Springs
+4/11/2016,South Dakota,181,3,44.06,243.43,Sioux Falls(Mitchell) SD,Pierre
+4/11/2016,Utah,46,0,0,0,Salt Lake City UT,Cedar Hills
+4/11/2016,South Carolina,28,2,13.07,466.79,Charleston SC,Hanahan
+4/11/2016,Missouri,36,1,2.23,61.94,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,Marble Hill
+4/11/2016,Illinois,580,3,5.98,10.31, --,Wheaton
+4/11/2016,Virginia,43,2,6.38,148.37,Roanoke-Lynchburg VA,Dublin
+4/11/2016,Iowa,26,0,0,0, --,Monona
+4/11/2016,South Carolina,33,2,3.44,104.24,Columbia SC,Gilbert
+4/11/2016,Missouri,10,0,0,0,Springfield MO,Pierce City
+4/11/2016,Ohio,3,0,0,0, --,Mineral City
+4/11/2016,Pennsylvania,10,0,0,0,Buffalo NY,Galeton
+4/11/2016,Massachusetts,7,1,0.01,1.43,Albany-Schenectady-Troy NY,Richmond
+4/11/2016,Michigan,42,0,0,0, --,Michigan Center
+4/11/2016,Maine,22,0,0,0, --,Phillips
+4/11/2016,Michigan,67,5,15.29,228.21,South Bend-Elkhart IN,Edwardsburg
+4/11/2016,Alabama,51,0,0,0,Birmingham AL,Rainbow City
+4/11/2016,Oregon,3,0,0,0, --,Lane County
+4/11/2016,Wyoming,22,0,0,0, --,Pinedale
+4/11/2016,New York,1031,5,10.7,10.38, --,Poughkeepsie
+4/11/2016,Massachusetts,115,7,18.31,159.22,Providence RI-New Bedford MA,Westport
+4/11/2016,Georgia,35,0,0,0, --,Ocilla
+4/11/2016,Maine,8,0,0,0,Bangor ME,Blue Hill
+4/11/2016,Arizona,60,0,0,0, --,Bisbee
+4/11/2016,North Carolina,3,0,0,0,Greensboro-High Point-Winston Salem NC,Wentworth
+4/11/2016,Illinois,8,0,0,0, --,Sheridan
+4/11/2016,Illinois,375,0,0,0, --,Grayslake
+4/11/2016,Michigan,19,2,16.26,855.79,Lansing MI,Ovid
+4/11/2016,North Carolina,9,0,0,0,Wilmington NC,Kure Beach
+4/11/2016,Nebraska,29,1,13.36,460.69,North Platte NE,Unspecified
+4/11/2016,Colorado,238,0,0,0, --,Frederick
+4/11/2016,Wisconsin,103,3,9.18,89.13,Wausau-Rhinelander WI,Merrill
+4/11/2016,Iowa,15,0,0,0,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,Belle Plaine
+4/11/2016,Vermont,14,1,1.04,74.29,Burlington VT-Plattsburgh NY,Orleans
+4/11/2016,New Mexico,4,0,0,0, --,Cuyamungue
+4/11/2016,Mississippi,39,0,0,0, --,Iuka
+4/11/2016,Michigan,60,0,0,0, --,Flint Township
+4/11/2016,Illinois,52,7,15.27,293.65,St. Louis MO,Lebanon
+4/11/2016,Pennsylvania,48,0,0,0, --,Emporium
+4/11/2016,Florida,73,5,18.27,250.27,Ft. Myers-Naples FL,Immokalee
+4/11/2016,Wisconsin,22,0,0,0,Milwaukee WI,Sturtevant
+4/11/2016,Missouri,9,1,1.84,204.44,Kansas City MO,Gallatin
+4/11/2016,Maryland,106,4,8.76,82.64,Baltimore MD,Bel Air South
+4/11/2016,Pennsylvania,108,2,7.1,65.74,Pittsburgh PA,Mars
+4/11/2016,Minnesota,150,1,1.03,6.87, --,Mendota Heights
+4/11/2016,Massachusetts,3,0,0,0,Boston MA-Manchester NH,Waban
+4/11/2016,Washington,98,3,5.43,55.41,Seattle-Tacoma WA,Woodinville
+4/11/2016,Pennsylvania,41,0,0,0, --,Chicora
+4/11/2016,Mississippi,23,0,0,0,Columbus-Tupelo-West Point MS,Coffeeville
+4/11/2016,New Hampshire,5,0,0,0,Boston MA-Manchester NH,East Kingston
+4/11/2016,Virginia,871,44,161.6,185.53,Richmond-Petersburg VA,Glen Allen
+4/11/2016,Ohio,73,0,0,0, --,Millersburg
+4/11/2016,New Jersey,144,8,19.02,132.08,New York NY,Oakland
+4/11/2016,Ohio,62,0,0,0,Charleston-Huntington WV,Rio Grande
+4/11/2016,Illinois,131,0,0,0, --,Lindenhurst
+4/11/2016,Texas,66,4,21.26,322.12,Tyler-Longview(Lufkin & Nacogdoches) TX,Bullard
+4/11/2016,Texas,126,0,0,0, --,Commerce
+4/11/2016,North Carolina,67,0,0,0, --,Atlantic Beach
+4/11/2016,Oklahoma,17,0,0,0, --,Checotah
+4/11/2016,Missouri,125,4,8.58,68.64,Columbia-Jefferson City MO,Moberly
+4/11/2016,Pennsylvania,5,0,0,0, --,Halifax
+4/11/2016,Texas,912,50,179.32,196.62,Dallas-Ft. Worth TX,Allen
+4/11/2016,Illinois,189,1,3.66,19.37, --,Itasca
+4/11/2016,Georgia,9,0,0,0, --,Skidaway Island
+4/11/2016,Hawaii,71,0,0,0, --,Haleiwa
+4/11/2016,Ohio,18,0,0,0, --,Dalton
+4/11/2016,Michigan,57,0,0,0, --,Spring Lake
+4/11/2016,South Carolina,93,6,22.74,244.52,Columbia SC,Gaston
+4/11/2016,Michigan,27,2,1.52,56.3,Flint-Saginaw-Bay City MI,Goodrich
+4/11/2016,New Jersey,11,1,2.06,187.27,Philadelphia PA,Robbinsville
+4/11/2016,Ohio,29,0,0,0,Cincinnati OH,Williamsburg
+4/11/2016,Oklahoma,952,7,27.35,28.73, --,Broken Arrow
+4/11/2016,Ohio,6,0,0,0,Toledo OH,West Unity
+4/11/2016,New York,8,0,0,0,Albany-Schenectady-Troy NY,Jefferson
+4/11/2016,Iowa,10,0,0,0, --,Keystone
+4/11/2016,Texas,5,0,0,0,Dallas-Ft. Worth TX,Avery
+4/11/2016,Kentucky,17,2,14.73,866.47,Charleston-Huntington WV,Vanceburg
+4/11/2016,Michigan,44,0,0,0, --,Ithaca
+4/11/2016,Maine,1,0,0,0,Bangor ME,Bradford
+4/11/2016,Nebraska,13,0,0,0, --,Gibbon
+4/11/2016,Louisiana,317,16,41.02,129.4,Lake Charles LA,Sulphur
+4/11/2016,Iowa,17,0,0,0,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,Swisher
+4/11/2016,Illinois,479,1,14.04,29.31, --,Joliet
+4/11/2016,Illinois,10,0,0,0,Champaign & Springfield-Decatur IL,Farmer City
+4/11/2016,Michigan,47,0,0,0, --,Gaines Township
+4/11/2016,Maine,4,0,0,0,Portland-Auburn ME,Acton
+4/11/2016,Maryland,250,2,12.8,51.2, --,Calverton
+4/11/2016,Iowa,18,0,0,0, --,Terril
+4/11/2016,California,14,0,0,0, --,Foothill Farms
+4/11/2016,Virginia,32,0,0,0,Tri-Cities TN-VA,Chilhowie
+4/11/2016,Ohio,6,2,9.45,1575,Columbus OH,Rockbridge
+4/11/2016,Mississippi,194,4,8.77,45.21,Meridian MS,Philadelphia
+4/11/2016,Oregon,3,0,0,0,Portland OR,Union
+4/11/2016,Illinois,188,1,1.9,10.11, --,Taylorville
+4/11/2016,Missouri,12,0,0,0, --,Unionville
+4/11/2016,Georgia,274,1,4.01,14.64, --,Leesburg
+4/11/2016,New York,61,2,1.55,25.41,New York NY,South Salem
+4/11/2016,Michigan,23,0,0,0, --,Belmont
+4/11/2016,Massachusetts,19,0,0,0, --,Dunstable
+4/11/2016,Virginia,538,2,11.06,20.56, --,Martinsville
+4/11/2016,New Jersey,21,1,1.27,60.48,New York NY,Kendall Park
+4/11/2016,Virginia,84,6,14.51,172.74,Richmond-Petersburg VA,Tappahannock
+4/11/2016,Minnesota,1,0,0,0, --,Afton
+4/11/2016,West Virginia,9,1,4.92,546.67,Clarksburg-Weston WV,Parsons
+4/11/2016,Wisconsin,10,1,0.37,37,Duluth MN-Superior WI,Cable
+4/11/2016,California,111,0,0,0, --,Rowland Heights
+4/11/2016,Oregon,174,7,8.9,51.15,Portland OR,La Grande
+4/11/2016,Alabama,220,1,3.79,17.23, --,Gardendale
+4/11/2016,Iowa,6,1,2.24,373.33,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,Farley
+4/11/2016,Maine,10,0,0,0, --,Steuben
+4/11/2016,Texas,44,8,12.45,282.95,Tyler-Longview(Lufkin & Nacogdoches) TX,Pittsburg
+4/11/2016,Iowa,5,0,0,0,Omaha NE,Tabor
+4/11/2016,Wisconsin,76,0,0,0, --,Galesville
+4/11/2016,Florida,51,2,2.16,42.35, --,Wright
+4/11/2016,Wisconsin,99,0,0,0, --,Delavan
+4/11/2016,Pennsylvania,28,1,1.64,58.57,Philadelphia PA,Holmes
+4/11/2016,New Jersey,24,0,0,0, --,Washington Township
+4/11/2016,Connecticut,217,8,94.15,433.87,New York NY,New Canaan
+4/11/2016,Iowa,67,6,26.41,394.18,Sioux City IA,Spirit Lake
+4/11/2016,Nebraska,3,0,0,0,Lincoln & Hastings-Kearney NE,Henderson
+4/11/2016,Illinois,1,0,0,0, --,Irvington
+4/11/2016,California,6,0,0,0,Palm Springs CA,Cabazon
+4/11/2016,Virginia,120,7,14.09,117.42,Charlottesville VA,Palmyra
+4/11/2016,North Dakota,11,0,0,0,Minot-Bismarck-Dickinson(Williston) ND,Beach
+4/11/2016,Arizona,3,0,0,0,Phoenix AZ,Joseph City
+4/11/2016,New York,28,1,1.81,64.64, --,Mount Morris
+4/11/2016,Missouri,18,1,7.03,390.56,Springfield MO,Hermitage
+4/11/2016,Arizona,10,2,25.06,2506,Phoenix AZ,Salome
+4/11/2016,Ohio,12,0,0,0,Cleveland-Akron (Canton) OH,Diamond
+4/11/2016,Tennessee,276,4,4.83,17.5,Nashville TN,Antioch
+4/11/2016,New Jersey,202,1,9.96,49.31, --,Ocean City
+4/11/2016,Texas,2,0,0,0,San Antonio TX,Hunt
+4/11/2016,New York,6,4,1.76,293.33,Albany-Schenectady-Troy NY,Shushan
+4/11/2016,Maryland,17,1,2.73,160.59,Salisbury MD,Hurlock
+4/11/2016,New Jersey,40,2,5.79,144.75,New York NY,Washington Township
+4/11/2016,Illinois,2,0,0,0, --,Pearl City
+4/11/2016,Michigan,11,0,0,0,Flint-Saginaw-Bay City MI,Mayville
+4/11/2016,Illinois,30,0,0,0, --,Madison
+4/11/2016,New York,7,0,0,0, --,Sodus Point
+4/11/2016,Iowa,82,2,0.99,12.07, --,Atlantic
+4/11/2016,Tennessee,75,1,0.1,1.33, --,McEwen
+4/11/2016,Massachusetts,1,0,0,0, --,South Walpole
+4/11/2016,South Dakota,4,0,0,0, --,Selby
+4/11/2016,Massachusetts,7,0,0,0, --,Cheshire
+4/11/2016,Minnesota,11,0,0,0, --,Lake Park
+4/11/2016,Connecticut,5,0,0,0, --,Cornwall
+4/11/2016,Iowa,25,0,0,0,Des Moines-Ames IA,Baxter
+4/11/2016,Virginia,31,3,6.4,206.45,Washington DC (Hagerstown MD),Brambleton
+4/11/2016,Maine,25,0,0,0, --,Warren
+4/11/2016,Tennessee,2,0,0,0,Tri-Cities TN-VA,Surgoinsville
+4/11/2016,Montana,2,0,0,0,Billings Mount,Lame Deer
+4/11/2016,Oklahoma,1344,63,271.01,201.64,Oklahoma City OK,Edmond
+4/11/2016,New Jersey,37,0,0,0, --,Elmer
+4/11/2016,Michigan,132,0,0,0, --,Highland charter Township
+4/11/2016,New Mexico,2,0,0,0,Albuquerque-Santa Fe NM,Thoreau
+4/11/2016,California,403,1,1.81,4.49, --,La Crescenta-Montrose
+4/11/2016,Maine,1,0,0,0, --,Kittery Point
+4/11/2016,Mississippi,7,1,1.4,200,Baton Rouge LA,Liberty
+4/11/2016,Indiana,34,2,1.63,47.94,Ft. Wayne IN,Berne
+4/11/2016,North Dakota,38,0,0,0, --,Bowman
+4/11/2016,New York,18,0,0,0, --,Albertson
+4/11/2016,Michigan,328,12,29.85,91.01,Detroit MI,Van Buren Charter Township
+4/11/2016,Mississippi,16,0,0,0, --,Charleston
+4/11/2016,California,523,0,0,0, --,Petaluma
+4/11/2016,Ohio,839,28,46.85,55.84,Cleveland-Akron (Canton) OH,Mentor
+4/11/2016,Connecticut,338,18,90.88,268.88,Hartford & New Haven CT,Branford
+4/11/2016,New York,42,1,2.67,63.57, --,Tappan
+4/11/2016,Michigan,31,0,0,0,Flint-Saginaw-Bay City MI,Tawas City
+4/11/2016,Nevada,160,1,0.28,1.75, --,Mesquite
+4/11/2016,Washington,1,0,0,0,Seattle-Tacoma WA,Bridgeport
+4/11/2016,Arkansas,84,0,0,0,Little Rock-Pine Bluff AR,Sherwood
+4/11/2016,Washington,30,0,0,0,Spokane WA,Oroville
+4/11/2016,Texas,129,0,0,0,Austin TX,Lakeway
+4/11/2016,Georgia,184,0,0,0, --,Scottdale
+4/11/2016,Maryland,16,0,0,0, --,Boyds
+4/11/2016,Iowa,11,0,0,0,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,Fayette
+4/11/2016,Maine,48,4,19.87,413.96,Bangor ME,Unspecified
+4/11/2016,Connecticut,4,0,0,0, --,Cornwall Bridge
+4/11/2016,Michigan,21,4,4.22,200.95,Detroit MI,Huron charter Township
+4/11/2016,Unspecified,6,1,0.14,23.33,Medford-Klamath Falls OR,Unspecified
+4/11/2016,Nevada,165,5,11.76,71.27,Reno NV,Fallon
+4/11/2016,South Dakota,4,0,0,0, --,Big Stone City
+4/11/2016,Georgia,95,1,3.3,34.74, --,Cairo
+4/11/2016,Missouri,11,0,0,0, --,Hayti
+4/11/2016,Georgia,12,0,0,0,Savannah GA,Mount Vernon
+4/11/2016,Colorado,1212,66,243.66,201.04,Denver CO,Thornton
+4/11/2016,Utah,481,3,20.52,42.66,Salt Lake City UT,Richfield
+4/11/2016,Connecticut,23,2,8.22,357.39,Hartford & New Haven CT,Salisbury
+4/11/2016,Oklahoma,24,2,28.24,1176.67,Sherman TX-Ada OK,Colbert
+4/11/2016,Wyoming,1,0,0,0,Billings Mount,Meeteetse
+4/11/2016,Michigan,196,16,25.79,131.58,Detroit MI,Independence charter Township
+4/11/2016,Iowa,8,3,9.55,1193.75,Des Moines-Ames IA,Clarion
+4/11/2016,Indiana,19,1,0.41,21.58, --,South Whitley
+4/11/2016,Michigan,75,0,0,0, --,East Tawas
+4/11/2016,Washington,3,0,0,0, --,Clear Lake
+4/11/2016,New Hampshire,45,2,1.41,31.33,Boston MA-Manchester NH,Gilford
+4/11/2016,Florida,321,1,11.71,36.48, --,Middleburg
+4/11/2016,South Carolina,16,0,0,0,Greenville-Spartanburg SC-Asheville NC-Anderson SC,Jonesville
+4/11/2016,Mississippi,434,2,9.61,22.14, --,Natchez
+4/11/2016,Georgia,66,0,0,0, --,Fairmount
+4/11/2016,New York,1,0,0,0,New York NY,Brinckerhoff
+4/11/2016,South Carolina,91,0,0,0, --,Elgin
+4/11/2016,Washington,49,0,0,0, --,Wapato
+4/11/2016,Arizona,19,0,0,0,Phoenix AZ,Springerville
+4/11/2016,Alabama,57,0,0,0, --,Ider
+4/11/2016,Massachusetts,15,0,0,0,Boston MA-Manchester NH,North Brookfield
+4/11/2016,Kentucky,458,19,56.3,122.93,Evansville IN,Henderson
+4/11/2016,Missouri,15,0,0,0,Springfield MO,Mansfield
+4/11/2016,Oregon,20,0,0,0, --,Oakland
+4/11/2016,Pennsylvania,19,0,0,0,Johnstown-Altoona PA,Snow Shoe
+4/11/2016,California,9,1,9.33,1036.67,San Francisco-Oakland-San Jose CA,Blackhawk
+4/11/2016,Maryland,15,0,0,0, --,Green Valley
+4/11/2016,New Jersey,382,0,0,0, --,North Bergen
+4/11/2016,Oklahoma,1,0,0,0, --,Picher
+4/11/2016,Nevada,194,3,7.77,40.05,Reno NV,Fernley
+4/11/2016,Alabama,167,1,10.84,64.91, --,Muscle Shoals
+4/11/2016,New York,10,0,0,0, --,Kinderhook
+4/11/2016,Maryland,34,0,0,0, --,Ashton
+4/11/2016,Virginia,12,0,0,0, --,White Stone
+4/11/2016,Texas,169,0,0,0, --,Rockport
+4/11/2016,Alabama,9,0,0,0, --,Ashland
+4/11/2016,Indiana,3,0,0,0, --,Selma
+4/11/2016,Indiana,7,0,0,0, --,Akron
+4/11/2016,Iowa,16,0,0,0,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,Calmar
+4/11/2016,Massachusetts,86,3,17.47,203.14,Albany-Schenectady-Troy NY,Great Barrington
+4/11/2016,Michigan,20,1,5.02,251,Grand Rapids-Kalamazoo-Battle Creek MI,Lowell charter Township
+4/11/2016,New Jersey,5,0,0,0,Philadelphia PA,Monroeville
+4/11/2016,Nevada,55,0,0,0, --,Winchester
+4/11/2016,Tennessee,63,0,0,0, --,Red Boiling Springs
+4/11/2016,New York,22,0,0,0, --,East Massapequa
+4/11/2016,Connecticut,366,1,1.38,3.77, --,Enfield
+4/11/2016,California,125,1,4.7,37.6, --,Crescent City
+4/11/2016,Iowa,10,0,0,0, --,Villisca
+4/11/2016,California,12,0,0,0,Los Angeles CA,Wrightwood
+4/11/2016,Arkansas,13,1,0.98,75.38,Little Rock-Pine Bluff AR,Carlisle
+4/11/2016,Arkansas,21,0,0,0,Ft. Smith-Fayetteville-Springdale-Rogers AR,Farmington
+4/11/2016,Georgia,26,0,0,0, --,Nahunta
+4/11/2016,Connecticut,236,0,0,0, --,Coventry
+4/11/2016,New York,11,1,0.16,14.55,Rochester NY,Bloomfield
+4/11/2016,Kansas,9,0,0,0, --,Linwood
+4/11/2016,Arkansas,2,0,0,0,Memphis TN,Poplar Grove
+4/11/2016,Washington,229,0,0,0, --,Mount Vernon
+4/11/2016,North Carolina,738,22,130.96,177.45,Greensboro-High Point-Winston Salem NC,Burlington
+4/11/2016,Georgia,19,0,0,0, --,Riceboro
+4/11/2016,New York,122,1,0.33,2.7,Watertown NY,Fort Drum
+4/11/2016,North Carolina,7,0,0,0,Charlotte NC,Misenheimer
+4/11/2016,Maryland,126,2,9.62,76.35,Baltimore MD,Edgewater
+4/11/2016,Connecticut,145,7,58.05,400.34,Hartford & New Haven CT,Cromwell
+4/11/2016,Kentucky,165,0,0,0, --,Harlan
+4/11/2016,Louisiana,59,3,8.57,145.25,Lafayette LA,Saint Martinville
+4/11/2016,Virginia,14,0,0,0, --,Lawrenceville
+4/11/2016,West Virginia,32,0,0,0,Roanoke-Lynchburg VA,Unspecified
+4/11/2016,California,4,0,0,0, --,Wallace
+4/11/2016,Iowa,35,0,0,0, --,Osceola
+4/11/2016,Texas,714,41,184.04,257.76,Dallas-Ft. Worth TX,Mansfield
+4/11/2016,Virginia,30,0,0,0,Richmond-Petersburg VA,Heathsville
+4/11/2016,Montana,5,0,0,0, --,Choteau
+4/11/2016,New Hampshire,6,0,0,0,Burlington VT-Plattsburgh NY,Plainfield
+4/11/2016,Indiana,44,0,0,0, --,Pittsboro
+4/11/2016,Oregon,398,18,99.23,249.32,Medford-Klamath Falls OR,Klamath Falls
+4/11/2016,Illinois,629,31,208.87,332.07,Chicago IL,Crystal Lake
+4/11/2016,California,12,1,4.53,377.5,Los Angeles CA,Baker
+4/11/2016,Pennsylvania,34,5,7.35,216.18,Pittsburgh PA,Fayette City
+4/11/2016,Michigan,40,0,0,0,Traverse City-Cadillac MI,Interlochen
+4/11/2016,Minnesota,1,0,0,0, --,Heron Lake
+4/11/2016,Georgia,15,1,1.04,69.33, --,Pine Mountain
+4/11/2016,Pennsylvania,39,3,4.42,113.33,Pittsburgh PA,Perryopolis
+4/11/2016,New Jersey,579,19,151.46,261.59,New York NY,Morristown
+4/11/2016,Wyoming,22,1,1.2,54.55,Salt Lake City UT,Pinedale
+4/11/2016,Massachusetts,1,0,0,0,Boston MA-Manchester NH,West Townsend
+4/11/2016,South Carolina,13,3,5.57,428.46,Charleston SC,Hollywood
+4/11/2016,Illinois,366,22,202.14,552.3,Chicago IL,Deerfield
+4/11/2016,Maine,2,1,5.62,2810,Bangor ME,Milo
+4/11/2016,West Virginia,107,0,0,0, --,Kenova
+4/11/2016,Minnesota,268,8,27.63,103.1,Minneapolis-St. Paul MN,Chaska
+4/11/2016,North Dakota,22,0,0,0,Minot-Bismarck-Dickinson(Williston) ND,Rugby
+4/11/2016,Indiana,221,9,75.31,340.77,Terre Haute IN,Vincennes
+4/11/2016,Illinois,8,1,5.3,662.5,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,Shawneetown
+4/11/2016,New Jersey,42,1,1.86,44.29, --,Red Bank
+4/11/2016,Missouri,89,0,0,0, --,Carthage
+4/11/2016,North Dakota,6,0,0,0,Minot-Bismarck-Dickinson(Williston) ND,Parshall
+4/11/2016,Michigan,34,0,0,0,Marquette MI,Rapid River
+4/11/2016,Nebraska,24,2,0.5,20.83,Lincoln & Hastings-Kearney NE,O'Neill
+4/11/2016,New Jersey,7,0,0,0,New York NY,Pluckemin
+4/11/2016,Florida,67,6,4.1,61.19,Tallahassee FL-Thomasville GA,Monticello
+4/11/2016,New York,154,0,0,0, --,Sayville
+4/11/2016,Arizona,13,1,10.74,826.15, --,Tonopah
+4/11/2016,Texas,60,0,0,0, --,Jasper
+4/11/2016,North Carolina,84,0,0,0, --,Tabor City
+4/11/2016,Virginia,7,0,0,0, --,Charles City
+4/11/2016,Massachusetts,23,0,0,0,Boston MA-Manchester NH,West Yarmouth
+4/11/2016,Maine,4,2,0.99,247.5,Bangor ME,Brooks
+4/11/2016,California,88,10,16.25,184.66,Bakersfield CA,Wasco
+4/11/2016,Arizona,64,2,7.32,114.38,Phoenix AZ,Holbrook
+4/11/2016,Iowa,9,1,3.42,380,Sioux City IA,Alta
+4/11/2016,Arizona,65,2,13.1,201.54,Albuquerque-Santa Fe NM,Chinle
+4/11/2016,California,698,3,5.82,8.34, --,Pleasanton
+4/11/2016,Florida,867,20,70.1,80.85,Miami-Ft. Lauderdale FL,Doral
+4/11/2016,Texas,99,9,36.41,367.78,San Antonio TX,Unspecified
+4/11/2016,Michigan,40,0,0,0, --,Munising
+4/11/2016,Kentucky,28,0,0,0, --,Eminence
+4/11/2016,Louisiana,135,0,0,0, --,Marksville
+4/11/2016,California,1793,98,332.15,185.25,Los Angeles CA,Victorville
+4/11/2016,Idaho,2,0,0,0,Spokane WA,De Smet
+4/11/2016,Georgia,17,0,0,0,Atlanta GA,Waleska
+4/11/2016,North Carolina,16,3,19.84,1240,Greenville-New Bern-Washington NC,Marine Corps Air Station Cherry Point
+4/11/2016,Wisconsin,12,0,0,0, --,Washburn
+4/11/2016,New Jersey,272,19,106.16,390.29,New York NY,Elmwood Park
+4/11/2016,Pennsylvania,15,0,0,0, --,New Kingstown
+4/11/2016,Tennessee,49,0,0,0, --,Woodbury
+4/11/2016,California,32,0,0,0, --,Portola Valley
+4/11/2016,Wisconsin,7,0,0,0, --,Fox Point
+4/11/2016,New York,55,2,12.53,227.82,Albany-Schenectady-Troy NY,Valatie
+4/11/2016,California,4298,4,4.89,1.14, --,Irvine
+4/11/2016,Pennsylvania,42,2,5.48,130.48,Wilkes Barre-Scranton PA,Middleburg
+4/11/2016,Minnesota,15,0,0,0,Minneapolis-St. Paul MN,Evansville
+4/11/2016,South Carolina,69,0,0,0, --,Moore
+4/11/2016,Pennsylvania,4,0,0,0, --,Tower City
+4/11/2016,Michigan,11,1,0.01,0.91,Lansing MI,Elsie
+4/11/2016,Pennsylvania,523,29,135.25,258.6,Philadelphia PA,Warminster
+4/11/2016,Maryland,800,52,162.07,202.59,Washington DC (Hagerstown MD),Germantown
+4/11/2016,Rhode Island,422,2,5.39,12.77, --,West Warwick
+4/11/2016,Arizona,2081,111,444.13,213.42,Phoenix AZ,Gilbert
+4/11/2016,Florida,68,2,4.06,59.71,Miami-Ft. Lauderdale FL,Westchester
+4/11/2016,Kentucky,4,0,0,0, --,Millersburg
+4/11/2016,Ohio,9,0,0,0,Columbus OH,Albany
+4/11/2016,Montana,14,0,0,0, --,Cascade
+4/11/2016,New York,385,0,0,0, --,Smithtown
+4/11/2016,Ohio,103,0,0,0,Columbus OH,Bexley
+4/11/2016,Illinois,19,0,0,0,Chicago IL,Virgil
+4/11/2016,Georgia,4,2,19.14,4785,Albany GA,Morgan
+4/11/2016,New York,1,0,0,0, --,Model City
+4/11/2016,Illinois,225,0,0,0, --,Rosemont
+4/11/2016,Indiana,8,0,0,0, --,New Washington
+4/11/2016,Ohio,102,1,2.68,26.27, --,Napoleon
+4/11/2016,Maryland,76,0,0,0, --,Rosaryville
+4/11/2016,Colorado,16,1,2.05,128.12,Denver CO,Ault
+4/11/2016,New Hampshire,11,0,0,0, --,West Swanzey
+4/11/2016,Pennsylvania,108,0,0,0, --,Mars
+4/11/2016,Virginia,747,48,338.03,452.52,Washington DC (Hagerstown MD),Chantilly
+4/11/2016,Minnesota,7,0,0,0,La Crosse-Eau Claire WI,Unspecified
+4/11/2016,Georgia,102,1,1.54,15.1, --,Rockmart
+4/11/2016,Massachusetts,1,0,0,0, --,Townsend
+4/11/2016,Ohio,314,7,74.57,237.48,Columbus OH,New Albany
+4/11/2016,Alabama,28,0,0,0, --,Eclectic
+4/11/2016,Indiana,397,1,6.57,16.55, --,East Chicago
+4/11/2016,Washington,274,0,0,0, --,Camano Island
+4/11/2016,Minnesota,30,1,3.89,129.67,Duluth MN-Superior WI,Mountain Iron
+4/11/2016,Utah,102,0,0,0, --,Beaver
+4/11/2016,Texas,35,0,0,0, --,Van Alstyne
+4/11/2016,Iowa,2,0,0,0, --,Logan
+4/11/2016,New York,45,0,0,0,Utica NY,Newport
+4/11/2016,Missouri,1,0,0,0,Springfield MO,Climax Springs
+4/11/2016,Michigan,121,0,0,0, --,Fenton Township
+4/11/2016,Tennessee,29,4,18.96,653.79,Nashville TN,Hartsville
+4/11/2016,New York,12,0,0,0,New York NY,Glenwood Landing
+4/11/2016,Arkansas,16,0,0,0, --,West Fork
+4/11/2016,Connecticut,185,0,0,0, --,Bethel
+4/11/2016,Ohio,127,0,0,0, --,Clyde
+4/11/2016,Tennessee,26,1,5.94,228.46,Knoxville TN,Helenwood
+4/11/2016,California,191,12,20.49,107.28,Palm Springs CA,Rancho Mirage
+4/11/2016,Indiana,10,0,0,0,Ft. Wayne IN,Huntertown
+4/11/2016,Illinois,61,0,0,0, --,River Grove
+4/11/2016,Oregon,1,0,0,0,Eugene OR,Glendale
+4/11/2016,Arkansas,14,0,0,0,Ft. Smith-Fayetteville-Springdale-Rogers AR,Charleston
+4/11/2016,Texas,3,0,0,0,Odessa-Midland TX,Rankin
+4/11/2016,Wisconsin,11,0,0,0, --,Johnson Creek
+4/11/2016,Florida,18,0,0,0, --,Buckingham
+4/11/2016,Maine,151,2,1.78,11.79, --,Bath
+4/11/2016,Pennsylvania,22,0,0,0,Philadelphia PA,Spring City
+4/11/2016,New York,1272,65,192.22,151.12,New York NY,White Plains
+4/11/2016,Illinois,42,2,14.13,336.43,Chicago IL,Berkeley
+4/11/2016,New York,52,1,9.91,190.58,Albany-Schenectady-Troy NY,Chatham
+4/11/2016,Kansas,12,0,0,0, --,Minneapolis
+4/11/2016,Iowa,15,0,0,0,Des Moines-Ames IA,Laurens
+4/11/2016,New York,66,0,0,0,New York NY,Narrowsburg
+4/11/2016,New York,5,0,0,0, --,Clinton Corners
+4/11/2016,Ohio,15,1,1.45,96.67,Toledo OH,Liberty Center
+4/11/2016,Illinois,332,1,1.6,4.82, --,Belvidere
+4/11/2016,North Carolina,1306,5,7.39,5.66, --,Salisbury
+4/11/2016,Illinois,3,0,0,0, --,Fithian
+4/11/2016,Arkansas,242,14,95.59,395,Memphis TN,West Memphis
+4/11/2016,Kansas,8,0,0,0, --,Solomon
+4/11/2016,Texas,17,0,0,0, --,Cross Roads
+4/11/2016,Wisconsin,5,0,0,0, --,Lowell
+4/11/2016,Georgia,158,0,0,0, --,Saint Simons Island
+4/11/2016,Minnesota,12,2,0.02,1.67,Fargo-Valley City ND,Warren
+4/11/2016,Maryland,81,3,17.38,214.57,Washington DC (Hagerstown MD),Lusby
+4/11/2016,West Virginia,49,4,8.81,179.8,Charleston-Huntington WV,Wayne
+4/11/2016,South Dakota,6,0,0,0, --,Martin
+4/11/2016,Kansas,8,0,0,0,Wichita-Hutchinson KS,Solomon
+4/11/2016,Wisconsin,24,0,0,0,Milwaukee WI,Richfield
+4/11/2016,Pennsylvania,11,1,1.35,122.73,Youngstown OH,Sharpsville
+4/11/2016,Pennsylvania,8,0,0,0, --,Centre Hall
+4/11/2016,West Virginia,7,0,0,0, --,Teays
+4/11/2016,Maryland,22,4,9.43,428.64,Baltimore MD,Finksburg
+4/11/2016,Georgia,91,5,5.73,62.97,Atlanta GA,Madison
+4/11/2016,Montana,13,0,0,0,Butte-Bozeman Mount,Sheridan
+4/11/2016,Oklahoma,8,0,0,0,Tulsa OK,Barnsdall
+4/11/2016,New York,33,4,61.69,1869.39,New York NY,Tappan
+4/11/2016,Iowa,14,1,0.47,33.57,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,Tiffin
+4/11/2016,Alabama,21,0,0,0, --,Evergreen
+4/11/2016,New Jersey,1,0,0,0,New York NY,Rocky Hill
+4/11/2016,New York,1,0,0,0, --,Waddington
+4/11/2016,Massachusetts,133,3,3.01,22.63,Providence RI-New Bedford MA,Somerset
+4/11/2016,Maryland,41,0,0,0, --,Joint Base Andrews
+4/11/2016,California,173,5,6.05,34.97,San Francisco-Oakland-San Jose CA,Pleasant Hill
+4/11/2016,Idaho,135,19,108.21,801.56,Idaho Falls-Pocatello ID,Unspecified
+4/11/2016,New Jersey,1,0,0,0,Philadelphia PA,Tabernacle
+4/11/2016,Massachusetts,99,0,0,0, --,Sturbridge
+4/11/2016,Alaska,70,0,0,0,Anchorage AK,Palmer
+4/11/2016,Arizona,68,2,0.39,5.74,Phoenix AZ,Tonopah
+4/11/2016,California,318,5,79.08,248.68, --,Selma
+4/11/2016,Oregon,7,0,0,0,Portland OR,Brownsville
+4/11/2016,Louisiana,51,3,8.68,170.2,Lake Charles LA,Kinder
+4/11/2016,Nebraska,14,0,0,0, --,Holdrege
+4/11/2016,Texas,15,0,0,0, --,Hallsville
+4/11/2016,Wisconsin,89,2,3.52,39.55,Green Bay-Appleton WI,Weyauwega
+4/11/2016,New York,57,0,0,0, --,Holland
+4/11/2016,Pennsylvania,16,0,0,0,Pittsburgh PA,Houston
+4/11/2016,Virginia,163,0,0,0, --,Emporia
+4/11/2016,Iowa,7,0,0,0,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,Hudson
+4/11/2016,Wisconsin,23,1,47.54,2066.96,Milwaukee WI,Tichigan
+4/11/2016,California,1609,67,257.99,160.34,Los Angeles CA,Santa Monica
+4/11/2016,Pennsylvania,1,0,0,0, --,Rockwood
+4/11/2016,Minnesota,19,0,0,0,Minneapolis-St. Paul MN,Richmond
+4/11/2016,Texas,54,2,3.04,56.3,Tyler-Longview(Lufkin & Nacogdoches) TX,Winnsboro
+4/11/2016,Oklahoma,25,1,0.45,18,Oklahoma City OK,Lexington
+4/11/2016,Indiana,38,0,0,0, --,Hanover
+4/11/2016,Texas,47,1,0.68,14.47,Houston TX,Hitchcock
+4/11/2016,California,170,4,17.44,102.59,Los Angeles CA,Big Bear
+4/11/2016,Iowa,2,0,0,0,Des Moines-Ames IA,Lovilia
+4/11/2016,Pennsylvania,97,0,0,0, --,Muncy
+4/11/2016,California,273,9,22.62,82.86,Los Angeles CA,Altadena
+4/11/2016,Texas,26,0,0,0, --,Hearne
+4/11/2016,Arkansas,9,0,0,0,Ft. Smith-Fayetteville-Springdale-Rogers AR,Mountainburg
+4/11/2016,Colorado,98,5,5.92,60.41,Denver CO,Ken Caryl
+4/11/2016,Florida,113,1,2.04,18.05, --,Westchester
+4/11/2016,Oregon,336,11,60.15,179.02,Bend OR,Redmond
+4/11/2016,Maine,3,0,0,0,Portland-Auburn ME,Kittery Point
+4/11/2016,Idaho,43,4,23.1,537.21,Boise ID,Unspecified
+4/11/2016,Ohio,860,32,138.4,160.93,Cleveland-Akron (Canton) OH,Massillon
+4/11/2016,Unspecified,149,5,6.56,44.03,Boston MA-Manchester NH,Unspecified
+4/11/2016,New Mexico,261,1,0.17,0.65, --,Espanola
+4/11/2016,Texas,11,0,0,0, --,Dickens
