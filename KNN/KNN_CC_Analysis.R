@@ -17,7 +17,7 @@ fold8 <- c()
 fold9 <- c()
 fold10 <- c()
 
-ladata <- as.data.frame(read.table("credit_card_data-headers.txt",header = T))
+ladata <- as.data.frame(read.table("credit_card_data_headers.txt",header = T))
 head(ladata)
 
 for (x in 1:10){
